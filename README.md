@@ -7,3 +7,11 @@ A ZSH theme for people who like fancy ZSH themes optimized for Git
 >./install.zsh
 
 There are two themes. If you use a terminal multiplexer I recommend using the light theme.
+
+### Fancy theme
+
+![Screenshot](Screenshots/fancy.PNG)
+
+### Light theme
+
+![Screenshot](Screenshots/Light.PNG)
